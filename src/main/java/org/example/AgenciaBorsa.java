@@ -1,2 +1,5 @@
-package org.example;public interface AgenciaBorsa {
+package org.example;
+
+public interface AgenciaBorsa {
+    void update();
 }
