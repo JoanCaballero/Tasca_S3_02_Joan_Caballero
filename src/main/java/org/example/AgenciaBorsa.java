@@ -1,5 +1,5 @@
 package org.example;
 
 public interface AgenciaBorsa {
-    void update();
+    void update(String message);
 }
